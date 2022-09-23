@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Di ko alam sasabihin ko HAHA',
     messDesc: 'Speechless na ako wala na',
     btnAccept: 'Yun lang sana magustuhan mo HEHE',
-    messLink: 'https://github.kiiiii lun <3com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://https://github.com/janjov'
 }
